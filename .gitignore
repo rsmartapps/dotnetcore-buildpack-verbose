@@ -1,2 +1,3 @@
-bin
-obj
+.vs
+/test/fixtures/*/obj
+/test/fixtures/*/bin
